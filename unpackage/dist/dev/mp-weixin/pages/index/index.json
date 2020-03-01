@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商城",
+  "usingComponents": {
+    "goods-list": "/components/goods-list/goods-list"
+  }
+}

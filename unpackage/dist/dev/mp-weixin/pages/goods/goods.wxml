@@ -1,0 +1,1 @@
+<view class="goods_list"><goods-list vue-id="1" goods="{{goods}}" bind:__l="__l"></goods-list><block wx:if="{{flag}}"><view class="isOver">----�����е��ߵ�----</view></block></view>
